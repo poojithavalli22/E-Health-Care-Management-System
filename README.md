@@ -1,4 +1,5 @@
-# 🏥 E-Hospital Management System (Java)
+# 🏥 E-Health Care Management System
+
 
 A **console-based E-Health Care Management System** developed using **Core Java** concepts.  
 
